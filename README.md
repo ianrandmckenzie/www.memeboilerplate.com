@@ -1,4 +1,4 @@
-# Meme Template for the World Wide Web
+# Meme Boilerplate for the World Wide Web
 
 ## Favicons
 
